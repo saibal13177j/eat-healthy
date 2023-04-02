@@ -1,0 +1,46 @@
+h1{
+    padding: 2px;
+    font-size: 60px;
+    font-family:'Poppins', sans-serif;
+    color: gray;
+    padding-left: 1.5%;
+
+}
+#orange{
+    color: orange;
+}
+body{
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    
+    margin: 2%;
+    font-family:'Poppins', sans-serif;
+}
+.prothom{ 
+    display: flex;
+    justify-content:space-evenly
+}
+.prothom img{
+    height: 560px;
+    max-width: 560px;
+    
+   
+}
+
+p{
+    font-size: 35px;
+    text-align: justify;
+    padding-left: 1.5%;
+    color: black;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: 900px;
+    background-image: linear-gradient(orange,rgb(255, 137, 157));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
